@@ -30,9 +30,9 @@ struct ContentView: View {
                     Button {
                         totalNumber = "0"
                     } label: {
-                        Text("C")
+                        Text("AC")
                             .frame(width: 80, height: 80)
-                            .background(Color("NumberBtn"))
+                            .background(.gray)
                             .cornerRadius(40)
                             .foregroundStyle(.white)
                             .font(.system(size: 33))
@@ -40,14 +40,14 @@ struct ContentView: View {
                     
                     Text("+/-")
                         .frame(width: 80, height: 80)
-                        .background(Color("NumberBtn"))
+                        .background(.gray)
                         .cornerRadius(40)
                         .foregroundStyle(.white)
                         .font(.system(size: 33))
                     
                     Text("%")
                         .frame(width: 80, height: 80)
-                        .background(Color("NumberBtn"))
+                        .background(.gray)
                         .cornerRadius(40)
                         .foregroundStyle(.white)
                         .font(.system(size: 33))
