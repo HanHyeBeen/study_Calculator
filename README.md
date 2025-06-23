@@ -1,6 +1,6 @@
 # 🌱 프로젝트 이름
 
-> 한 줄 설명 – 어떤 문제를 해결하거나 실험하려 했는지?
+> 아이폰 기본 계산기 클론코딩
 
 ![프로젝트 배너 또는 스크린샷](링크)
 
@@ -27,13 +27,13 @@
 
 ## 💡 프로젝트 동기
 
-SwiftUI의 Combine을 학습하면서, 비동기 UI 상태 관리에 대한 이해를 높이기 위해 시작했습니다.
+아이폰 기본 계산기 앱을 클론코딩하며 SwiftUI 학습하기 위해 시작함
+(개발자리 유튜브 참고)
 
 
 ## 📌 목표
 
-- 개인 학습 or 실험 프로젝트
-- 특정 기술 습득 (예: SwiftUI, Combine, Firebase 등)
+- 개인 학습
 - 배운 것 정리 및 레퍼런스 확보
 
 
@@ -57,8 +57,7 @@ SwiftUI의 Combine을 학습하면서, 비동기 UI 상태 관리에 대한 이�
 
 | 주제 | 요약 |
 |------|------|
-| SwiftData | SwiftData에서의 CRUD 구현 과정 |
-| NavigationStack | 복잡한 화면 전환 구조 |
+| SwiftUI | SwiftUI |
 
 
 ## ⚙️ 설치 및 실행
@@ -99,7 +98,7 @@ open MyProject.xcodeproj
 
 | 이름 | GitHub |
 |------|--------|
-| 나 | [@me](https://github.com/me) |
+| 나 | [@me](https://github.com/HanHyeBeen) |
 
 
 ## 📝 License
